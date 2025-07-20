@@ -70,13 +70,13 @@ This project demonstrates **practical quantitative research, financial modeling,
 ✅ Cloud Deployment – Render-hosted, production-ready service
 
 ▶ Quick Start (Local)
-bash
-Copy
-Edit
+```json{
 git clone https://github.com/yourusername/quantinvest.git
 cd quantinvest
 pip install -r requirements.txt
-python app.py
+python app.py}
+```
+
 Then open:
 http://127.0.0.1:5000
 
