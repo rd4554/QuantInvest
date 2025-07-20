@@ -19,6 +19,12 @@ This project demonstrates **practical quantitative research, financial modeling,
 ## **🌐 Live Demo**
 ✅ **Base URL**: [https://quant-invest-awub.onrender.com](https://quant-invest-awub.onrender.com)  
 
+## 🔥 Live Demo Screenshot
+![Demo Output](demo.png)
+
+## 📊 Portfolio Allocation (Pie Chart)
+![Portfolio Allocation](portfolio_pie.png)
+
 ### **1) Health Check**  
 `GET /`  
 ```json
